@@ -47,8 +47,10 @@ If you find value in this work, acknowledgment is always appreciated — collabo
 ---
 ## 🌍 Author
 
-**NeuralSpectra**
+**Daanyaal .H**
+
 Data Scientist | Cybersecurity & AI Research  
 📧 Contact: www.linkedin.com/in/neuralspectra
+
 ---
 > “**Education & Open Contribution Are The Strongest Forms Of Innovation.**”
