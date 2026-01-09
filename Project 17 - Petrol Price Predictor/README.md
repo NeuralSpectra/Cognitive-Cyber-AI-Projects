@@ -1,8 +1,8 @@
 # **Project 17: Petrol Price Predictor**
 
-This project predicts **petrol prices** based on key influencing factors such as **historical price trends, demand-related indicators, and other relevant numerical features**.
+This is a **basic beginner-friendly project** designed to help understand how a simple machine learning model can be built using **date-based features such as Month, Day, and Year** to predict the **petrol price (USD)**.
 
-**It demonstrates how machine learning can be applied to real-world economic and energy data to forecast fuel prices and analyze market behavior.**
+**The project focuses on fundamentals like data preprocessing, model training, and prediction using a minimal feature set, making it ideal for beginners learning regression concepts.**
 
 ---
 
@@ -20,11 +20,11 @@ This project predicts **petrol prices** based on key influencing factors such as
 
    **streamlit run app.py**
 
-4. A browser tab will open automatically, allowing you to interact with the app and **predict petrol prices live**.
+4. A browser tab will open automatically, allowing you to interact with the app and **predict petrol prices based on the selected date**.
 
 ---
 
 ## **Note About the Notebook**
 
 **Some minor changes were made in the Model Building section to account for updates in Python, Jupyter, and library versions.
-The results, logic, and model performance remain completely identical to the original analysis.**
+The results, logic, and model behavior remain completely identical to the original implementation.**
