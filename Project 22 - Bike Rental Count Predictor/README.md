@@ -27,4 +27,4 @@ This project predicts the **number of bikes rented** based on environmental and 
 
 ## **Note About the Notebook**
 
-**Minor adjustments were made during model development to account for updated Python and library versions.The modeling logic, feature handling, and prediction performance remain consistent with the original analysis.**
+**Minor adjustments were made during model development to account for updated Python and library versions. The modeling logic, feature handling, and prediction performance remain consistent with the original analysis.**
