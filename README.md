@@ -3,7 +3,7 @@
 *Hi ! I’m Daanyaal — a Data Scientist and Cybersecurity professional based in U.A.E.*
 *While my core background is in Cybersecurity, I’ve always been deeply fascinated by how AI and Data Science can amplify digital defense, automate detection, and uncover hidden insights.*
 
-*During my 6-month Data Science internship at a London-based company in Dubai, I had the opportunity to work on a series of real-world, production-level projects. These projects formed the foundation for this* *repository — a collection of 50 advanced AI and Data Science implementations that merge the best of cybersecurity, data analytics, and artificial intelligence.*
+*During my 12 month Data Science internship at a London-based company in Dubai, I had the opportunity to work on a series of real-world, production-level projects. These projects formed the foundation for this* *repository — a collection of 50 advanced AI and Data Science implementations that merge the best of cybersecurity, data analytics, and artificial intelligence.*
 
 *My approach has always been integration-focused — blending multiple disciplines to create solutions that are both technically advanced and practically impactful.*
 
