@@ -1,8 +1,8 @@
-# **Project 13: FIFA-19 Predictor**
+# **Project 15: Credit Card Fraud Detection**
 
-This project predicts FIFA-19 player ratings based on player attributes such as **Age, Overall, Potential, International Reputation, Weak Foot, Skill Moves, and Jersey Number,** among others.
+This project predicts whether a credit card transaction is **fraudulent or legitimate** based on transaction patterns and behavioral features such as **Time, Amount, and transformed feature variables**, among others.
 
-**It demonstrates how machine learning can analyze player statistics to estimate ratings and helps enthusiasts, analysts, and researchers explore football data more effectively.**
+**It demonstrates how machine learning can detect suspicious financial activities, helping in fraud prevention, risk management, and building secure payment systems. This type of model is widely used in real-world fintech systems to minimize financial losses and improve transaction security.**
 
 ---
 
@@ -19,19 +19,12 @@ This project predicts FIFA-19 player ratings based on player attributes such as 
 
 3. Open a terminal in that directory and run:
 
-    **streamlit run app.py**
+   **streamlit run app.py**
 
-4. A browser tab will open automatically, allowing you to interact with the app and predict player ratings live.
-
----
-
-## **Note About the Data**
-
-**The features V1–V28 are principal components obtained using PCA to protect sensitive transaction details while preserving predictive patterns.**
+4. A browser tab will open automatically, allowing you to interact with the app and predict transaction fraud status live.
 
 ---
 
 ## **Note About the Notebook**
 
-**Some minor changes were made in the Model Building section to account for updates in Python, Jupyter, and library versions.The results, logic, and model performance remain completely identical to the original analysis.**
-
+**Some minor changes were made in the Model Building section to account for updates in Python, Jupyter, and library versions. The results, logic, and model performance remain completely identical to the original analysis.**
